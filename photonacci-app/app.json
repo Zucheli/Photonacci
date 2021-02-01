@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Photonacci",
+    "slug": "Photonacci",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#CACFD2"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.zucheliinc.photonacci",
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-3702483996895342~2741557686"
+      }
+    },
+    "android": {
+      "package": "com.zucheliinc.photonacci",
+      "adaptiveIcon": {
+        "backgroundColor": "#CACFD2",
+        "foregroundImage": "./assets/icon.png"
+      },
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-3702483996895342~2741557686" 
+      }
+    }
+  }
+}
