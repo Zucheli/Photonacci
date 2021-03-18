@@ -1,6 +1,6 @@
 # Photonacci
 
-## Sobre o Projeto / About Project
+## About Project
 
 Um app inspirado na sequência de Fibonacci e sua proporção áurea onde o usuário pode tirar uma foto com o filtro e ver onde essa sequência famosa se encaixa e esta presente.
 
@@ -19,6 +19,6 @@ An app inspired by the Fibonacci sequence and its golden ratio where the user ca
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=Expo&logoColor=white)
 
-## Autor / Author
+## Author
 ![Linkedin](https://img.shields.io/badge/Mateus_Zucheli-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
